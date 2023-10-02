@@ -1,0 +1,24 @@
+package polymorphism;
+
+class Os {
+	void run() {
+		
+	}
+}
+
+class Linux extends Os {
+	
+}
+
+class Apple extends Os {
+	
+}
+
+public class PolyEx {
+
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

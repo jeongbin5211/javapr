@@ -1,0 +1,43 @@
+package polymorphism;
+
+class Os {
+	void run() {
+		System.out.println("운영체제를 시작합니다.");
+	}
+}
+
+class Linux extends Os {
+
+	@Override
+	void run() {
+		System.out.println("Linux start");
+	}
+	
+}
+
+class Apple extends Os {
+
+	@Override
+	void run() {
+		System.out.println("Apple start");
+	}
+	
+}
+
+class Ms extends Os {
+
+	@Override
+	void run() {
+		
+	}
+	
+}
+
+public class PolyEx {
+
+	public static void main(String[] args) {
+		
+		
+	}
+
+}

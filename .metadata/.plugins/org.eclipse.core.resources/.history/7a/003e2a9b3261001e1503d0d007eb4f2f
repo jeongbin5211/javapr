@@ -1,0 +1,21 @@
+package DB;
+
+interface QueryEx {
+	
+	// 입력
+	
+	// 수정
+	
+	// 삭제
+	
+	// 출력
+}
+
+public class DBEx {
+
+	public static void main(String[] args) {
+	// TODO Auto-generated method stub
+
+	}
+
+}

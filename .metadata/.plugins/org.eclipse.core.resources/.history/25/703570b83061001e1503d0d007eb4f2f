@@ -1,0 +1,13 @@
+package abstractEx;
+
+class Computer {
+	
+}
+
+public class AbsEx {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

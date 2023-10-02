@@ -1,0 +1,51 @@
+package abstractEx;
+
+interface Boot {
+	void powerOn();
+	void powerOff();
+}
+
+interface OSsystem {
+	void msOS();
+	void appleOS();
+}
+
+class Mac implements Boot, OSsystem {
+
+	@Override
+	public void msOS() {
+		
+	}
+
+	@Override
+	public void appleOS() {
+		System.out.println("애플 운영체제 시작");
+	}
+
+	@Override
+	public void powerOn() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void powerOff() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}
+
+
+
+public class interfaceEx {
+
+	public static void main(String[] args) {
+		// 부팅, 운영체제 따로 만들어서 다중 상속 처리
+		// abstract 상속 - 오버라이드
+		
+		// interface -> implements : 상속을 받아 구현
+
+	}
+
+}
