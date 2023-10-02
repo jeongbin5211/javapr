@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;tut0919.calEx4&apos; to &apos;CalEx4&apos;&#x0D;&#x0A;- Original project: &apos;tut0919&apos;&#x0D;&#x0A;- Original element: &apos;tut0919.calEx4&apos;&#x0D;&#x0A;- Renamed element: &apos;tut0919.CalEx4&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;calEx4&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;tut0919{calEx4.java[calEx4" matchStrategy="1" name="CalEx4" qualified="false" references="true" similarDeclarations="false" stamp="1695128688073" textual="false" version="1.0"/>
+</session>

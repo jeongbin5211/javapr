@@ -1,0 +1,10 @@
+package io;
+
+public class IOEx01 {
+
+	public static void main(String[] args) {
+		// 사원가입(이미지), 게시판(이미지, 첨부파일) : 오늘 첨부파일
+
+	}
+
+}

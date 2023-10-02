@@ -1,0 +1,14 @@
+package io;
+
+import java.io.File;
+
+public class IOEx03 {
+
+	public static void main(String[] args) {
+		
+		String folder = "ioDir";
+		File dir = new File("c:\\temp\\" + folder);
+
+	}
+
+}

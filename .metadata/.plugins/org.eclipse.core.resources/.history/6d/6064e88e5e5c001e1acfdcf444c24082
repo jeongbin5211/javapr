@@ -1,0 +1,11 @@
+package io;
+
+public class IOEx02 {
+
+	public static void main(String[] args) {
+		// 파일이 존재하는지 확인 후
+		// 파일을 생성하였습니다. or 존재합니다. => exists() - boolean
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package io;
+
+public class CharSetEx {
+
+	public static void main(String[] args) {
+		// 한글 Charset : EUC-KR -> 949 -> UTF-8
+		
+		// ASCII(1byte) -> EUC-KR -> 949 -> UTF-8(3byte)
+		// 한글 변환(전송) -> byte[] -> loop
+
+	}
+
+}

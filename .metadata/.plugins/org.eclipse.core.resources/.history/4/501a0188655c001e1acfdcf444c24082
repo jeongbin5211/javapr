@@ -1,0 +1,16 @@
+package stream;
+
+import java.io.File;
+
+public class StreamEx02 {
+
+	public static void main(String[] args) {
+		
+		String fileName = "c:\\temp\\korea.txt";
+		File file = new File(fileName);
+		
+		// FileOut ~ : 기본은 false값, 아무것도 안쓰면 덮어쓰기, true(이어적기)
+
+	}
+
+}

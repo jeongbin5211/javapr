@@ -1,0 +1,14 @@
+package inheritance;
+
+public class AutoEx {
+
+	public static void main(String[] args) {
+		HyundaiEx h = new HyundaiEx();
+		h.model = "¼Ò³ªÅ¸";
+		h.color = "white";
+		
+		KiaEx k = new KiaEx();
+
+	}
+
+}

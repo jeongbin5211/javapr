@@ -1,0 +1,33 @@
+package inheritance;
+
+class Cals {
+	// 더하기, 빼기
+	int add(int num1, int num2) {
+		return num1 + num2;
+	}
+	
+	int minus(int num1, int num2) {
+		return num1 - num2;
+	}
+}
+
+class AdvCals extends Cals {
+	// 더하기, 빼기, 곱하기, 나누기
+	
+	int mul(int num1, int num2) {
+		return num1 * num2;
+	}
+	
+	int div() {
+		
+	}
+}
+
+public class InherEx02 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

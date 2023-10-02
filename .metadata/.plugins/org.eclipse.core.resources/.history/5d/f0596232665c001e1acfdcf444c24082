@@ -1,0 +1,11 @@
+package stream;
+
+public class StreamEx03 {
+
+	public static void main(String[] args) {
+		// k(1) o(1) r e a		자료가 없으면 -1 return
+		String fileName = "c:\\temp\\busan.txt";
+
+	}
+
+}

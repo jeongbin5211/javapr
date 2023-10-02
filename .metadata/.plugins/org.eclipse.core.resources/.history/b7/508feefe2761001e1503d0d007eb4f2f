@@ -1,0 +1,29 @@
+package inheritance;
+
+class Add {
+	String title = "계산기 프로그램";
+	
+	void turnOn() {
+		System.out.println("전원을 켭니다.");
+	}
+	
+	void turnOff() {
+		System.out.println("전원을 끕니다.");
+	}
+	
+	// 정수 + 정수 = 정수
+	
+	int add(int num1, int num2) {
+		return num1 + num2;
+	}
+	
+}
+
+public class InherEx01 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

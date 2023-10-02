@@ -1,0 +1,40 @@
+package inheritance;
+
+class Cals {
+	// 더하기, 빼기
+	int add(int num1, int num2) {
+		return num1 + num2;
+	}
+	
+	int minus(int num1, int num2) {
+		return num1 - num2;
+	}
+}
+
+class AdvCals extends Cals {
+	// 더하기, 빼기, 곱하기, 나누기
+	
+	int mul(int num1, int num2) {
+		return num1 * num2;
+	}
+	
+	int div(int num1, int num2) {
+		return num1 / num2;
+	}
+}
+
+public class InherEx02 {
+
+	public static void main(String[] args) {
+		Cals cal = new Cals();
+		System.out.println(cal.add(10, 20));
+		System.out.println(cal.minus(100, 1000));
+		
+		System.out.println("---------------------");
+		
+		AdvCals cal2 = new AdvCals();
+		
+
+	}
+
+}

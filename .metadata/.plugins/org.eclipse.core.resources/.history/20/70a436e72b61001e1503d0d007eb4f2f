@@ -1,0 +1,26 @@
+package inheritance;
+
+class Phone {
+	String model;
+	String color;
+	
+	public Phone() {}
+	
+	public Phone(String model, String color) {
+		this.model = model;
+		this.color = color;
+	}
+}
+
+class AddCompany {
+	
+}
+
+public class InherEx04 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

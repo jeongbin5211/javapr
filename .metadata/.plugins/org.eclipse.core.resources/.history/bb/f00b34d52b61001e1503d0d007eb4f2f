@@ -1,0 +1,18 @@
+package inheritance;
+
+class Phone {
+	
+}
+
+class AddCompany {
+	
+}
+
+public class InherEx04 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

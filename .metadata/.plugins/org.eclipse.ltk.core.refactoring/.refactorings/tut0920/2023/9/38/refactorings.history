@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;tut0920.UserEx3&apos; to &apos;UsersEx3&apos;&#x0D;&#x0A;- Original project: &apos;tut0920&apos;&#x0D;&#x0A;- Original element: &apos;tut0920.UserEx3&apos;&#x0D;&#x0A;- Renamed element: &apos;tut0920.UsersEx3&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UserEx3&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;tut0920{UserEx3.java[UserEx3" matchStrategy="1" name="UsersEx3" qualified="false" references="true" similarDeclarations="false" stamp="1695221474964" textual="false" version="1.0"/>
+</session>

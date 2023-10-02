@@ -1,0 +1,8 @@
+package io;
+
+public class DateEx {
+	public static void main(String[] args) {
+		
+		// currentTimeMillis()
+	}
+}

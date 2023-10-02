@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="// 가입한 회원정보의 이메일과 비밀번호를 비교하여"/>
+		<list key="findhistory">
+			<item value="// 가입한 회원정보의 이메일과 비밀번호를 비교하여"/>
+		</list>
+	</section>
+</section>
