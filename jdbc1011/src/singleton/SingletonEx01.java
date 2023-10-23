@@ -16,6 +16,9 @@ class SingletonTest {
 		return st;
 	}
 	
+	public void Hello() {
+		System.out.println("hello");
+	}
 }
 
 public class SingletonEx01 {
@@ -39,6 +42,8 @@ public class SingletonEx01 {
 		SingletonTest st4 = SingletonTest.getInstance();
 		
 		System.out.println(st3 == st4);
+		
+		st3.Hello();
 		
 		
 
